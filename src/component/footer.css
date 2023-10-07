@@ -1,0 +1,43 @@
+footer {
+    background-color: #198754;
+}
+
+.copyright {
+    text-align: center;
+}
+
+.aboutus {
+    color: rgb(254, 186, 0);
+}
+
+.logoweb {
+    width: 100px;
+    height: auto;
+    padding-top: 10px;
+}
+
+.contactus, 
+.info,
+.help{
+    color: rgb(254, 186, 0);
+    padding-top: 95px;
+}
+
+.descabout {
+    text-align: left;
+}
+
+.no-bullets {
+    list-style-type: none; 
+    padding-left: 0; 
+}
+.no-bullets li a {
+    margin-bottom: 10px;
+    color: black;
+    text-decoration: none;
+}
+
+.fa {
+    margin-right: 10px;
+    color: rgb(254, 186, 0);
+}

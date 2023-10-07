@@ -1,0 +1,21 @@
+.contactus {
+    margin-top: 150px; 
+    margin-bottom: 100px;     
+}
+.titlecontactus,
+.subtcontact {
+    padding-left: 100px;
+}
+form {
+    padding-right: 100px;
+}
+
+.green {
+    background-color: #198754;
+    color: white;
+}
+
+.greenlabel {
+    color: #198754;
+}
+  
